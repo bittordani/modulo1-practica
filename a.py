@@ -1,1 +1,4 @@
+def resta
+
 def suma
+
